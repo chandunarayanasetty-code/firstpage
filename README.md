@@ -1,4 +1,4 @@
-# Aurora Galleria — Store Directory
+# CK Galleria — Store Directory
 
 A single-file shopping mall directory page: all 24 stores with full details, live search, category and floor filters, saved stores, and a floor guide.
 
